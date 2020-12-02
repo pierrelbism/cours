@@ -1,0 +1,11 @@
+Web:
+Côté Client:
+	- le fond : HTML (.html)
+	- la forme : CSS (.css)
+	- l'intéractivité : JavaScript (.js, .json)
+
+LE JAVASCRIPT
+Tout ce qui na pas d'enfant est un e feuiiile
+Le plus viuex est le noued racine
+
+
